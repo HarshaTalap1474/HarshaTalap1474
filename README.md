@@ -3,7 +3,7 @@
 🚀 **Electronics & Telecommunication Engineer | Full-Stack Developer | IoT Builder**
 
 I’m a third-year B.E. EnTC student at **DYPCOE Akurdi** and a **Google Student Ambassador**.  
-I build systems where **hardware meets software**—from scalable web apps to real-world IoT solutions.
+I build systems at the intersection of **hardware and software**—from scalable web applications to real-world IoT systems.
 
 > ⚡ *From voltage signals to user interfaces — I build the full stack of reality.*
 
@@ -18,7 +18,7 @@ I build systems where **hardware meets software**—from scalable web apps to re
 
 ---
 
-## 🚀 What I'm Doing Right Now
+## 🚀 Current Focus
 
 - 🧠 Preparing for **GATE 2026**
 - 🌐 Building **scalable MERN applications**
@@ -26,39 +26,19 @@ I build systems where **hardware meets software**—from scalable web apps to re
 
 ---
 
-## 🛠️ What I Build
+## 🛠️ What I Do
 
 ### 📱 App Development
-- Android apps like **PlayBox** & **Expense Tracker** (Java)
+- Developed Android applications like **PlayBox** and **Expense Tracker** using Java
 
 ### 🌐 Web Development
-- Full-stack **MERN applications**  
-- Backend systems using **Django & Python**
+- Building full-stack applications using **MERN Stack**
+- Backend development with **Django & Python**
 
 ### 🤖 IoT & Embedded Systems
-- 🌱 Smart Agriculture Monitoring Robot  
-- 🏠 Home Automation Systems  
-- Arduino & microcontroller-based solutions  
-
----
-
-## 🚀 Featured Projects
-
-- 🔹 **Smart Agriculture Monitoring Robot**  
-  *IoT-based automation system for real-time crop monitoring*  
-  👉 https://github.com/HarshaTalap1474
-
-- 🔹 **Home Automation System**  
-  *MQTT-powered smart control system*  
-  👉 https://github.com/HarshaTalap1474
-
-- 🔹 **PlayBox**  
-  *Android media streaming app*  
-  👉 https://github.com/HarshaTalap1474
-
-- 🔹 **Expense Tracker**  
-  *Personal finance management app*  
-  👉 https://github.com/HarshaTalap1474
+- Smart Agriculture Monitoring Systems 🌱  
+- Home Automation Solutions 🏠  
+- Arduino & microcontroller-based development  
 
 ---
 
@@ -66,8 +46,8 @@ I build systems where **hardware meets software**—from scalable web apps to re
 
 - 🔗 REST API Design & Integration  
 - 🗄️ Database Design (SQL & NoSQL)  
-- 🔐 Authentication (JWT, Firebase Auth)  
-- ⚡ Real-time Systems (MQTT, Firebase)  
+- 🔐 Authentication Systems (JWT, Firebase Auth)  
+- ⚡ Real-time Communication (MQTT, Firebase)  
 - 🚀 Deployment (Vercel, Netlify, Render)  
 
 ---
@@ -76,14 +56,14 @@ I build systems where **hardware meets software**—from scalable web apps to re
 
 - Sensor data acquisition & processing  
 - IoT dashboards & remote monitoring  
-- Automation with microcontrollers + web apps  
+- Automation using microcontrollers + web applications  
 
 ---
 
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms  
-- System Design Basics  
+- System Design Fundamentals  
 - Advanced IoT Architectures  
 
 ---
@@ -97,7 +77,7 @@ VS Code • Android Studio • Git • GitHub • Postman • Linux
 ## 🏆 Achievements
 
 - 🎓 Google Student Ambassador  
-- 🚀 Built multiple real-world IoT & full-stack projects  
+- 🚀 Built multiple real-world IoT and full-stack projects  
 
 ---
 
@@ -133,16 +113,10 @@ VS Code • Android Studio • Git • GitHub • Postman • Linux
 
 ---
 
-## 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=HarshaTalap1474&icon=0&color=0)
-
----
-
 ## ⚡ Fun Fact
 
-I enjoy building both **circuits and full-stack apps** —  
-basically working from **electrons to experiences** ⚡
+I enjoy building both **circuits and full-stack systems** —  
+working seamlessly from **hardware to user experience** ⚡
 
 ---
 
