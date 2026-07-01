@@ -1,128 +1,84 @@
-<h1> 👋 Hi, I am Harshavardhan Talap </h1>
+<div align="center">
+  
+# 👋 Hi, I am Harshavardhan Talap
 
-<b> Electronics & Telecommunication Engineer | Full-Stack Developer | IoT Builder </b>
+**Electronics & Telecommunication Engineer | Full-Stack Developer | IoT Builder**
 
-I am a third-year B.E. EnTC student at DYPCOE Akurdi and a Google Student Ambassador. I build systems at the intersection of hardware and software—ranging from scalable web applications to real-world IoT and biomedical systems.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+the+full+stack+of+reality;From+voltage+signals+to+user+interfaces;Google+Student+Ambassador;IoT+%26+Embedded+Systems+Enthusiast)](https://git.io/typing-svg)
 
-<blockquote> ⚡ From voltage signals to user interfaces — I build the full stack of reality. </blockquote>
+*“When there is hope, there is possibility. When there is possibility, we find the courage to build the future.”*
 
-<hr>
-
-<h2> 🌐 Connect With Me </h2>
-
-<ul>
-<li> 🔗 <b>Portfolio:</b> https://folio.harshalabs.online </li>
-<li> 🔗 <b>LinkedIn:</b> https://www.linkedin.com/in/harshavardhan-talap </li>
-<li> 📧 <b>Email:</b> harshvardhantalap1474@gmail.com </li>
-<li> 📸 <b>Instagram:</b> https://instagram.com/harsha.builds </li>
-</ul>
-
-<hr>
-
-<h2> 🚀 Current Focus </h2>
-
-<ul>
-<li> 🌐 Building scalable MERN stack applications. </li>
-<li> 🤖 Exploring AI and IoT integration for home automation and smart agriculture. </li>
-<li> ⚙️ Delivering end-to-end freelance hardware and software solutions. </li>
-</ul>
-
-<hr>
-
-<h2> 🛠️ What I Do </h2>
-
-<h3> 📱 App Development </h3>
-<ul>
-<li> Developed Android applications like PlayBox and Expense Tracker using Java. </li>
-</ul>
-
-<h3> 🌐 Web Development </h3>
-<ul>
-<li> Building full-stack applications using the MERN Stack. </li>
-<li> Backend development and API design with Django and Python. </li>
-</ul>
-
-<h3> 🤖 IoT & Embedded Systems </h3>
-<ul>
-<li> Built complex hardware systems, including an eye-tracking controlled wheelchair and a biomedical TENS therapy unit. </li>
-<li> Developing Smart Agriculture Monitoring Systems and Home Automation Solutions. </li>
-<li> Creating microcontroller-based projects using Arduino and ESP32. </li>
-</ul>
-
-<hr>
-
-<h2> ⚙️ Core Skills </h2>
-
-<ul>
-<li> 🔗 <b>Backend & APIs:</b> REST API Design, Database Architecture (SQL & NoSQL) </li>
-<li> 🔐 <b>Security & Auth:</b> JWT, Firebase Authentication </li>
-<li> ⚡ <b>Real-time Systems:</b> MQTT, Firebase, Sensor Data Acquisition </li>
-<li> 🚀 <b>Deployment:</b> Vercel, Netlify, Render </li>
-</ul>
-
-<hr>
-
-<h2> 🌱 Currently Learning </h2>
-
-<ul>
-<li> Data Structures & Algorithms </li>
-<li> System Design Fundamentals </li>
-<li> Advanced IoT Architectures and Edge Computing </li>
-</ul>
-
-<hr>
-
-<h2> 🧰 Tools & Environment </h2>
-
-<p> VS Code • Android Studio • Git • GitHub • Postman • Linux </p>
-
-<hr>
-
-<h2> 🏆 Achievements & Projects </h2>
-
-<ul>
-<li> 🎓 Google Student Ambassador. </li>
-<li> 🚀 Successfully delivered multiple freelance engineering projects, ranging from DC motor speed controllers to full-stack web platforms. </li>
-</ul>
-
-<hr>
-
-<h2> 💻 Tech Stack </h2>
-
-<p>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
+<p align="center">
+  <a href="https://folio.harshalabs.online"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/harshavardhan-talap"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:harshvardhantalap1474@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/harsha.builds"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<hr>
+</div>
 
-<h2> 📊 GitHub Stats </h2>
+---
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=HarshaTalap1474&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=HarshaTalap1474&theme=dracula&hide_border=false" alt="GitHub Streak" /> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaTalap1474&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
+### 🚀 About Me & Current Focus
+
+I am a third-year B.E. EnTC student at DYPCOE Akurdi and a **Google Student Ambassador**. I enjoy building systems at the absolute intersection of hardware and software—working seamlessly from circuit boards to cloud deployments. 
+
+- 🌐 **Web & Apps:** Building scalable MERN stack applications and developing Android solutions like PlayBox and Expense Tracker.
+- 🤖 **IoT & Embedded:** Building complex hardware ecosystems. From an eye-tracking controlled wheelchair and biomedical TENS units to smart agriculture monitoring using ESP32, Arduino, Raspberry Pi, and LattePanda setups.
+- 🧠 **AI & Cloud:** Experimenting with offline AI models like Gemma 4, advocating for Gemini API and Google AI Studio on campus, and exploring enterprise cloud solutions. 
+- ⚙️ **Project "Sentinel":** Currently developing and preparing the technical documentation for an upcoming internal review.
+
+---
+
+### 🌱 Currently Learning
+- 📚 Advanced Data Structures, Algorithms, and System Design Fundamentals.
+- ☁️ Pursuing my **JNCIA-Cloud associate certification** and diving deeper into Oracle Cloud architecture.
+- 🎌 **Japanese:** Pursuing Foundation Course (Level 1) to broaden my global communication skills.
+- ⚖️ Intellectual Property strategies via the NPTEL Patent Law for Engineers and Scientists course.
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Languages**  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Web & Backend**  
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+
+**Hardware, IoT & Real-time Systems**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+**AI, Cloud & Deployment**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaTalap1474&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=HarshaTalap1474&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaTalap1474&theme=dracula&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+</div>
+
+---
+
+<p align="center">
+  <i>⚡ Fun Fact: I enjoy bringing logic out of the screen and into the real world—whether it is tweaking a DC motor speed controller, configuring a single-board computer, or deploying a full-stack platform.</i>
 </p>
-
-<hr>
-
-<h2> ⚡ Fun Fact </h2>
-
-<p> I enjoy building both <b>circuits and full-stack systems</b> — working seamlessly from <b>hardware to user experience</b> ⚡ </p>
-
-<hr>
-
-<h2> 🔥 Quote I Believe In </h2>
-
-<blockquote> "When there is hope, there is possibility. When there is possibility, we find the courage to build the future." </blockquote>
-
-<hr>
