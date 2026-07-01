@@ -66,12 +66,10 @@ I am a third-year B.E. EnTC student at DYPCOE Akurdi and a **Google Student Amba
 
 ---
 
-### 🏆 GitHub Trophies & Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <a href="https://github.com/HarshaTalap1474">
-    <img src="https://github-profile-trophy.vercel.app/?username=HarshaTalap1474&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Harshavardhan's Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaTalap1474&theme=dracula&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 </div>
 <br/>
 <div align="center">
