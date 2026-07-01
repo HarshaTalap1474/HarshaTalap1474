@@ -2,7 +2,7 @@
   
 # 👋 Hi, I am Harshavardhan Talap
 
-**Electronics & Telecommunication Engineer | Full-Stack Developer | IoT Builder**
+**Electronics & Telecommunication Engineer | Android Developer | IoT Builder**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+the+full+stack+of+reality;From+voltage+signals+to+user+interfaces;Google+Student+Ambassador;IoT+%26+Embedded+Systems+Enthusiast)](https://git.io/typing-svg)
 
@@ -21,64 +21,65 @@
 
 ### 🚀 About Me & Current Focus
 
-I am a third-year B.E. EnTC student at DYPCOE Akurdi and a **Google Student Ambassador**. I enjoy building systems at the absolute intersection of hardware and software—working seamlessly from circuit boards to cloud deployments. 
+I am a third-year B.E. EnTC student at DYPCOE Akurdi and a **Google Student Ambassador**. I enjoy building systems at the absolute intersection of hardware and software—working seamlessly from circuit boards to robust applications.
 
-- 🌐 **Web & Apps:** Building scalable MERN stack applications and developing Android solutions like PlayBox and Expense Tracker.
-- 🤖 **IoT & Embedded:** Building complex hardware ecosystems. From an eye-tracking controlled wheelchair and biomedical TENS units to smart agriculture monitoring using ESP32, Arduino, Raspberry Pi, and LattePanda setups.
-- 🧠 **AI & Cloud:** Experimenting with offline AI models like Gemma 4, advocating for Gemini API and Google AI Studio on campus, and exploring enterprise cloud solutions. 
-- ⚙️ **Project "Sentinel":** Currently developing and preparing the technical documentation for an upcoming internal review.
+- 📱 **Android & Software Development:** Highly skilled in **Java**, building user-centric Android applications. Developed and shipped apps like **PlayBox** and **Expense Tracker**.
+- 🤖 **IoT & Embedded Systems:** Building complex hardware ecosystems. From an eye-tracking controlled wheelchair and biomedical TENS units to smart agriculture monitoring using ESP32, Arduino, Raspberry Pi, and LattePanda setups.
+- 🧠 **AI & Tech Advocacy:** Advocating for Gemini API and Google AI Studio on campus as a Google Student Ambassador, and experimenting with offline AI models like Gemma. 
 
 ---
 
 ### 🌱 Currently Learning
+
 - 📚 Advanced Data Structures, Algorithms, and System Design Fundamentals.
-- ☁️ Pursuing my **JNCIA-Cloud associate certification** and diving deeper into Oracle Cloud architecture.
-- 🎌 **Japanese:** Pursuing Foundation Course (Level 1) to broaden my global communication skills.
-- ⚖️ Intellectual Property strategies via the NPTEL Patent Law for Engineers and Scientists course.
+- ⚙️ Edge Computing and Advanced IoT Architectures.
+- 🛠️ Exploring deeper integrations between mobile applications and real-time hardware data.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 **Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
-**Web & Backend**  
+**App Development & Backend**  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 
 **Hardware, IoT & Real-time Systems**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
-**AI, Cloud & Deployment**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7)
+**Tools & Environment**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaTalap1474&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=HarshaTalap1474&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
+  <a href="https://github.com/HarshaTalap1474">
+    <img src="https://github-profile-trophy.vercel.app/?username=HarshaTalap1474&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Harshavardhan's Trophies" />
+  </a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaTalap1474&theme=dracula&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=HarshaTalap1474&theme=dracula&hide_border=true" width="60%" alt="GitHub Streak" />
 </div>
 
 ---
 
 <p align="center">
-  <i>⚡ Fun Fact: I enjoy bringing logic out of the screen and into the real world—whether it is tweaking a DC motor speed controller, configuring a single-board computer, or deploying a full-stack platform.</i>
+  <i>⚡ Fun Fact: I enjoy bringing logic out of the screen and into the real world—whether it is tweaking a DC motor speed controller, configuring a single-board computer, or developing an Android app to control it all.</i>
 </p>
