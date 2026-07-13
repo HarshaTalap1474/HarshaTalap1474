@@ -81,3 +81,4 @@ I am a third-year B.E. EnTC student at DYPCOE Akurdi and a **Google Student Amba
 <p align="center">
   <i>⚡ Fun Fact: I enjoy bringing logic out of the screen and into the real world—whether it is tweaking a DC motor speed controller, configuring a single-board computer, or developing an Android app to control it all.</i>
 </p>
+
